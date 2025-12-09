@@ -1,0 +1,9 @@
+{
+  "firmware": [
+    {
+      "version": "2.0.0-stack",
+      "md5sum": "fbcc26e09f1dc8e85b680cb99c05ed77",
+      "url": "https://github.com/SamLizzie30/onavital_fw_releases/raw/refs/heads/main/stm32wb5x_BLE_Stack_full_fw1.bin"
+    }
+  ]
+}
