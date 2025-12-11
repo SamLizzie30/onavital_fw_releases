@@ -1,9 +1,14 @@
 {
   "firmware": [
     {
-      "version": "2.0.0-dev10",
-      "md5sum": "9c83ec59a4aa41dc5e20789df1eca20e",
-      "url": "https://github.com/SamLizzie30/onavital_fw_releases/raw/refs/heads/main/Onavital_10.sfb"
+      "version": "2.0.0-dev181",
+      "md5sum": "be6b8acb2c37e521bfe76afff33a4576",
+      "url": "https://github.com/SamLizzie30/onavital_fw_releases/raw/refs/heads/main/Onavital_181.sfb"
+    },
+    {
+      "version": "2.0.0-dev18",
+      "md5sum": "48a4539bb54ebf35bd5e2058795e3e0d",
+      "url": "https://github.com/SamLizzie30/onavital_fw_releases/raw/refs/heads/main/Onavital_18.sfb"
     }
   ]
 }

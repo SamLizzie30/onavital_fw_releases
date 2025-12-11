@@ -1,9 +1,0 @@
-{
-  "firmware": [
-    {
-      "version": "2.0.0-dev9",
-      "md5sum": "6181593b6fc31fee462e9432dd41e170",
-      "url": "https://github.com/SamLizzie30/onavital_fw_releases/raw/refs/heads/main/Onavital_9.sfb"
-    }
-  ]
-}
