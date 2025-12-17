@@ -1,0 +1,9 @@
+{
+  "firmware": [
+    {
+      "version": "2.0.0-dev18s2",
+      "md5sum": "01181ae67b4f0ef3a050b440c98dbd89",
+      "url": "https://github.com/SamLizzie30/onavital_fw_releases/raw/refs/heads/main/Onavital18s2.sfb"
+    }
+  ]
+}
