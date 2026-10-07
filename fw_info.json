@@ -2,12 +2,12 @@
   "firmware": [
     {
       "version": "core-4.0.0dev18",
-      "md5sum": "48a4539bb54ebf35bd5e2058795e3e0d",
+      "md5sum": "48dcbaef531eea3b3321cdaf35dba3bc",
       "url": "https://github.com/SamLizzie30/onavital_fw_releases/raw/refs/heads/main/core-4.0.0.dev18.sfb"
     },
     {
       "version": "core-4.0.0dev19",
-      "md5sum": "48a4539bb54ebf35bd5e2058795e3e0d",
+      "md5sum": "52c8d7f7d61dabac19c9162d0863ee3d",
       "url": "https://github.com/SamLizzie30/onavital_fw_releases/raw/refs/heads/main/core-4.0.0.dev19.sfb"
     }
   ]
