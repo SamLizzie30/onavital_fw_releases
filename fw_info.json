@@ -2,7 +2,7 @@
   "firmware": [
     {
       "version": "core-4.0.0dev21",
-      "md5sum": "d45ea6f1a4675347401a92ad48160d5c",
+      "md5sum": "d1415525e9dabf75369ce409882c8994",
       "url": "https://github.com/SamLizzie30/onavital_fw_releases/raw/refs/heads/main/Onavital_core4_0_0_dev21.sfb"
     },
     {
