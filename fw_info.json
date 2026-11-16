@@ -4,6 +4,11 @@
       "version": "core-4.0.0",
       "md5sum": "87d4c86091653927b6323bb5c4aad899",
       "url": "https://github.com/SamLizzie30/onavital_fw_releases/raw/refs/heads/main/DEV_Onavital_core-4.0.0.sfb"
+    },
+    {
+      "version": "core-4.0.0dev1",
+      "md5sum": "3bd6d22fe796286a540a4ad0befa5263",
+      "url": "https://github.com/SamLizzie30/onavital_fw_releases/raw/refs/heads/main/Onavital_core4_1_0_dev1.sfb"
     }
   ]
 }
